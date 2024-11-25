@@ -1,0 +1,65 @@
+#nameContainer{
+    color: darkblue;
+    font-size: 40px;
+    padding-top: 20px;
+    /* border: 5px dotted lightblue; */
+}
+.ss{
+    border: 1pc solid darkcyan;
+    width: 200PX;
+    height: 250px;
+    padding-left: 50px;
+    padding-right: 30px;
+    background-color: lawngreen;
+}
+#num1{
+    color: rgb(163, 16, 65);
+    background-color: aqua;
+    font-size: 15px;
+}
+#num2{
+    color: blue;
+    background-color: aqua;
+    font-size: 15px;
+}
+#num1:hover{
+background-color: palevioletred;
+transition-duration: 1s;
+}
+#num2:hover{
+/* background-color: lawngreen; */
+transition-duration: 1s;
+background-color: palevioletred;
+}
+
+
+label{
+    color: rgb(240, 0, 0);
+}
+h1{
+    color: brown;
+    padding-left: 40PX;
+    font-size: 34px;
+    border: 10px solid gray;
+    width:250px ;
+    background-color: greenyellow;
+
+}
+.blue{
+    color: brown;
+    background-color: skyblue;
+    font-size: 20px;
+    /* background-color: lawngreen; */
+}
+.blue:hover{
+    background-color: rgb(6, 60, 110);
+    transition-duration: 1s;
+    
+ 
+}
+.k{
+    border: 10px solid brown;
+    width: 350px;
+    padding-left: 30px;
+    background-color: lightcoral;
+}
